@@ -1,0 +1,43 @@
+S:\Central Programming Environment\sbessht250\C#\Basketball\Basketball\bin\Debug\Basketball.exe
+S:\Central Programming Environment\sbessht250\C#\Basketball\Basketball\bin\Debug\Basketball.pdb
+S:\Central Programming Environment\sbessht250\C#\Basketball\Basketball\obj\x86\Debug\Basketball.Form1.resources
+S:\Central Programming Environment\sbessht250\C#\Basketball\Basketball\obj\x86\Debug\Basketball.Properties.Resources.resources
+S:\Central Programming Environment\sbessht250\C#\Basketball\Basketball\obj\x86\Debug\Basketball.csproj.GenerateResource.Cache
+S:\Central Programming Environment\sbessht250\C#\Basketball\Basketball\obj\x86\Debug\Basketball.exe
+S:\Central Programming Environment\sbessht250\C#\Basketball\Basketball\obj\x86\Debug\Basketball.pdb
+S:\Central Programming Environment\sbessht250\C#\Basketball\Basketball\obj\x86\Debug\Basketball.csprojResolveAssemblyReference.cache
+C:\Users\sbessht250\Desktop\C#\Basketball\Basketball\obj\x86\Debug\Basketball.exe
+C:\Users\sbessht250\Desktop\C#\Basketball\Basketball\obj\x86\Debug\Basketball.pdb
+C:\Users\sbessht250\Desktop\C#\Basketball\Basketball\bin\Debug\Basketball.exe
+C:\Users\sbessht250\Desktop\C#\Basketball\Basketball\bin\Debug\Basketball.pdb
+C:\Users\sbessht250\Desktop\C#\Basketball\Basketball\obj\x86\Debug\Basketball.csprojResolveAssemblyReference.cache
+C:\Users\sbessht250\Desktop\C#\Basketball\Basketball\obj\x86\Debug\Basketball.Form1.resources
+C:\Users\sbessht250\Desktop\C#\Basketball\Basketball\obj\x86\Debug\Basketball.Properties.Resources.resources
+C:\Users\sbessht250\Desktop\C#\Basketball\Basketball\obj\x86\Debug\Basketball.csproj.GenerateResource.Cache
+S:\Central Programming Environment\sbessht250\Basketball\Basketball\obj\x86\Debug\Basketball.exe
+S:\Central Programming Environment\sbessht250\Basketball\Basketball\obj\x86\Debug\Basketball.pdb
+S:\Central Programming Environment\sbessht250\Basketball\Basketball\bin\Debug\Basketball.exe
+S:\Central Programming Environment\sbessht250\Basketball\Basketball\bin\Debug\Basketball.pdb
+S:\Central Programming Environment\sbessht250\Basketball\Basketball\obj\x86\Debug\Basketball.csprojResolveAssemblyReference.cache
+S:\Central Programming Environment\sbessht250\Basketball\Basketball\obj\x86\Debug\Basketball.Form1.resources
+S:\Central Programming Environment\sbessht250\Basketball\Basketball\obj\x86\Debug\Basketball.Properties.Resources.resources
+S:\Central Programming Environment\sbessht250\Basketball\Basketball\obj\x86\Debug\Basketball.csproj.GenerateResource.Cache
+F:\Central High 2017-18\Basketball\Basketball\obj\x86\Debug\Basketball.exe
+F:\Central High 2017-18\Basketball\Basketball\obj\x86\Debug\Basketball.pdb
+F:\Central High 2017-18\Basketball\Basketball\obj\x86\Debug\Basketball.csprojResolveAssemblyReference.cache
+F:\Central High 2017-18\Basketball\Basketball\obj\x86\Debug\Basketball.Form1.resources
+F:\Central High 2017-18\Basketball\Basketball\obj\x86\Debug\Basketball.Properties.Resources.resources
+F:\Central High 2017-18\Basketball\Basketball\obj\x86\Debug\Basketball.csproj.GenerateResource.Cache
+F:\Central High 2017-18\Basketball\Basketball\bin\Debug\Basketball.exe
+F:\Central High 2017-18\Basketball\Basketball\bin\Debug\Basketball.pdb
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\obj\x86\Debug\Basketball.csprojResolveAssemblyReference.cache
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\obj\x86\Debug\Basketball.Form1.resources
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\obj\x86\Debug\Basketball.Properties.Resources.resources
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\obj\x86\Debug\Basketball.csproj.GenerateResource.Cache
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\obj\x86\Debug\Basketball.csproj.CoreCompileInputs.cache
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\obj\x86\Debug\Basketball.exe
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\obj\x86\Debug\Basketball.pdb
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\bin\Debug\Basketball.exe
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\bin\Debug\Basketball.pdb
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\tzxb0_d831out\Documents\High School\Central High 2017-18\C# Applications\Basketball\Basketball\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
